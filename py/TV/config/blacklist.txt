@@ -901,3 +901,13 @@ qwt.zhibotv.top
 113.195.8.230
 122.246.75.199
 channel.wcrmt.cn
+cdn2.132.us.kg
+218.84.12.186
+61.133.118.228
+61.160.112.102
+d18dyiwu97wm6q.cloudfront.net
+itv.iptv1688.top
+live.gdtv.ah.cn
+39.134.65.181
+stream.zztvzd.com
+play-sh.quklive.com
