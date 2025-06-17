@@ -1,158 +1,427 @@
-央视频道,#genre#
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CGTN英语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN西语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
-CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
-CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
-CGTN阿语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
-CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+台湾频道,#genre#
+中天新闻 HD,http://000.hfr1107.top/tv/smt.php?id=ctinews
+东森新闻 ETTV News,http://000.hfr1107.top/tv/smt.php?id=ettvnews
+台视新闻台,http://000.hfr1107.top/tv/smt.php?id=ttvnews_twn
+民视新闻台 FTV News,http://000.hfr1107.top/tv/smt.php?id=ftvnew_taiwan
+中视新闻台,http://000.hfr1107.top/tv/smt.php?id=zhongshinews_twn
+TVBS News 新闻台,http://000.hfr1107.top/tv/smt.php?id=tvbs_n
+寰宇新闻台,http://000.hfr1107.top/tv/smt.php?id=huanyuxinwen_twn
+非凡新闻台,http://000.hfr1107.top/tv/smt.php?id=feifannews_twn
+年代新闻,http://000.hfr1107.top/tv/smt.php?id=niandainews_twn
+TVBS 欢乐台 （备份）,http://000.hfr1107.top/tv/smt.php?id=tvbshuanle_twn
+TVBS HD,http://000.hfr1107.top/tv/smt.php?id=tvbs
+中天娱乐 CTI Entertaiment,http://000.hfr1107.top/tv/smt.php?id=ctient
+中天综合 CTI Metro,http://000.hfr1107.top/tv/smt.php?id=ctizhonghe
+中天亚洲台,http://000.hfr1107.top/tv/smt.php?id=ctiasia_twn
+台视 TTV HD,http://000.hfr1107.top/tv/smt.php?id=ttv_taiwan
+台视综合台,http://000.hfr1107.top/tv/smt.php?id=ttvzhonghe
+中视 HD,http://000.hfr1107.top/tv/smt.php?id=zhongshihd_twn
+民视 HD,http://000.hfr1107.top/tv/smt.php?id=ftvhd_taiwan
+民视台湾台,http://000.hfr1107.top/tv/smt.php?id=ftvtaiwan_twn
+华视 CTS HD,http://000.hfr1107.top/tv/smt.php?id=ctshd_twn
+公视 CTV,http://000.hfr1107.top/tv/smt.php?id=ctv18_twn
+八大第一 GTV First,http://000.hfr1107.top/tv/smt.php?id=badafirst
+八大综合 GTV Metro,http://000.hfr1107.top/tv/smt.php?id=badazhonghe
+八大戏剧 GTV Drama,http://000.hfr1107.top/tv/smt.php?id=badadrama
+八大娱乐 GTV Entertainment,http://000.hfr1107.top/tv/smt.php?id=badaentertain
+HBO_HD,http://000.hfr1107.top/tv/smt.php?id=hbohd_twn
+HBO_HITS,http://000.hfr1107.top/tv/smt.php?id=hbohit_twn
+Hollywood Movies,http://000.hfr1107.top/tv/smt.php?id=hollywoodmovies_twn
+三立台湾 Sanli Taiwan,http://000.hfr1107.top/tv/smt.php?id=sanlitaiwan
+三立戏剧台,http://000.hfr1107.top/tv/smt.php?id=sanlixiju_twn
+三立综合 Sanli Metro,http://000.hfr1107.top/tv/smt.php?id=sanlizhonghe
+三立都会台,http://000.hfr1107.top/tv/smt.php?id=sanlidouhui
+CINEMAX,http://000.hfr1107.top/tv/smt.php?id=cinemax_twn
+东森综合 ETTV Metro,http://000.hfr1107.top/tv/smt.php?id=ettvzhonghe
+东森戏剧 ETTV Drama,http://000.hfr1107.top/tv/smt.php?id=ettvdrama
+东森超视,http://000.hfr1107.top/tv/smt.php?id=ettvsuper
+东森财经新闻 ETTV Business,http://000.hfr1107.top/tv/smt.php?id=ettvcaijing_twn
+寰宇财经,http://000.hfr1107.top/tv/smt.php?id=huanyutaiwan_twn
+公视2,http://000.hfr1107.top/tv/smt.php?id=ctv2_twn
+大爱1台,http://000.hfr1107.top/tv/smt.php?id=daai_twn
+龙华戏剧 Lunghua Drama,http://000.hfr1107.top/tv/smt.php?id=lunghuaxiju_twn
+龙华经典台,http://000.hfr1107.top/tv/smt.php?id=lunghuajingdian_twn
+龙华偶像,http://000.hfr1107.top/tv/smt.php?id=lunghuaidol_twn
+AXN Taiwan,http://000.hfr1107.top/tv/smt.php?id=axn_twn
+靖天国际台,http://000.hfr1107.top/tv/smt.php?id=jingtianintl_twn
+纬来日本台,http://000.hfr1107.top/tv/smt.php?id=videolandjapan
+纬来电影台,http://000.hfr1107.top/tv/smt.php?id=videolandmovie
+纬来体育台,http://000.hfr1107.top/tv/smt.php?id=videolandsport
+纬来综合台,http://000.hfr1107.top/tv/smt.php?id=videolandzonghe
+纬来育乐,http://000.hfr1107.top/tv/smt.php?id=videolandyule
+纬来精彩,http://000.hfr1107.top/tv/smt.php?id=videolandspecial_twn
+好消息 2,http://000.hfr1107.top/tv/smt.php?id=good2_twn
+大爱2台,http://000.hfr1107.top/tv/smt.php?id=daai2_twn
+亚洲美食,http://000.hfr1107.top/tv/smt.php?id=afc_twn
+美食星球,http://000.hfr1107.top/tv/smt.php?id=foodplanet_twn
+亚洲旅游 TLC Asia,http://000.hfr1107.top/tv/smt.php?id=tlc_twn
+东森电影 ETTV Movie,http://000.hfr1107.top/tv/smt.php?id=ettvmovie
+阿里郎 Arirang,http://000.hfr1107.top/tv/smt.php?id=arirang_twn
+博斯运动 1,http://000.hfr1107.top/tv/smt.php?id=bosisport1_twn
+博斯运动 2,http://000.hfr1107.top/tv/smt.php?id=bosisport2_twn
+博斯高球2 HD,http://000.hfr1107.top/tv/smt.php?id=bosigolf2_twn
+博斯网球 HD,http://000.hfr1107.top/tv/smt.php?id=bositennis_twn
+东森洋片 ETTV Western,http://000.hfr1107.top/tv/smt.php?id=ettvwestern
+龙华洋片 Lunghua Western,http://000.hfr1107.top/tv/smt.php?id=lunghuawestern_twn
+博斯无限,http://000.hfr1107.top/tv/smt.php?id=bosiunlimited_twn
+MTV Live,http://000.hfr1107.top/tv/smt.php?id=mtvhd_twn
+龙详时代,http://000.hfr1107.top/tv/smt.php?id=lungxiangtime_twn
+EYETV 旅游,http://000.hfr1107.top/tv/smt.php?id=eyetvtravel_twn
+靖天卡通台,http://000.hfr1107.top/tv/smt.php?id=jingtiancartoon_twn
+EYETV 戏剧,http://000.hfr1107.top/tv/smt.php?id=eyetvxiju_twn
+卫视中文台 Star Movies Chinese,http://000.hfr1107.top/tv/smt.php?id=weishichinese_twn
+东森幼幼 Yoyo TV,http://000.hfr1107.top/tv/smt.php?id=yoyo_twn
+卫视电影台,http://000.hfr1107.top/tv/smt.php?id=weishimovie_twn
+美亚电影,http://000.hfr1107.top/tv/smt.php?id=meiyamovie_twn
+爱尔达影剧台,http://000.hfr1107.top/tv/smt.php?id=eltayingju_twn
+爱尔达综合台,http://000.hfr1107.top/tv/smt.php?id=eltazonghe_twn
+星卫电影,http://000.hfr1107.top/tv/smt.php?id=xingwei_movie
+AFC 亚洲旅游台,http://000.hfr1107.top/tv/smt.php?id=asiatravel_twn
 
-CCTV1,http://39.135.133.136/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1229&online=1717695524&vqe=3
-CCTV2,http://39.135.133.143/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1236&online=1717695767&vqe=3
-CCTV3,http://39.135.133.178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1248&online=1717696146&vqe=3
-CCTV4,http://39.135.133.161/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1244&online=1717696208&vqe=3
-CCTV5,http://39.135.133.158/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1251&online=1717696316&vqe=3
-CCTV-5+,http://39.135.133.168/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1243&online=1717738687&vqe=3
-CCTV6,http://39.135.133.162/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1253&online=1717696365&vqe=3
-CCTV7,http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1249&online=1717696414&vqe=3
-CCTV8,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717696479&vqe=3
-CCTV9,http://39.135.133.168/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1243&online=1717696525&vqe=3
-CCTV10,http://39.135.133.169/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1243&online=1717696564&vqe=3
-CCTV11,http://39.135.133.162/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1253&online=1717696637&vqe=3
-CCTV12,http://39.135.133.162/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1253&online=1717696670&vqe=3
-CCTV13,http://39.135.133.181/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1250&online=1717696736&vqe=3
-CCTV14,http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1235&online=1717696811&vqe=3
-CCTV15,http://39.135.133.161/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1244&online=1717696876&vqe=3
-CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
-CCTV17,http://39.135.133.169/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1243&online=1717696929&vqe=3
+香港频道,#genre#
+凤凰卫视,http://000.hfr1107.top/tv/smt.php?id=phoenixtv_hd
+凤凰资讯,http://000.hfr1107.top/tv/smt.php?id=phoenixinfo_hd
+iNews 新闻台,http://000.hfr1107.top/tv/smt.php?id=inews_twn
+翡翠台,http://000.hfr1107.top/tv/smt.php?id=jade_twn
+翡翠台 backup,http://000.hfr1107.top/tv/smt.php?id=Jade_xue
+J 2,http://000.hfr1107.top/tv/smt.php?id=j2_twn
+珍珠台,http://000.hfr1107.top/tv/smt.php?id=pearl_twn
+凤凰香港,http://000.hfr1107.top/tv/smt.php?id=hkphoenix_twn
+HOY资讯台,http://000.hfr1107.top/tv/smt.php?id=hoycaijing_twn
+RHK 31,http://000.hfr1107.top/tv/smt.php?id=rhk31_twn
+VIUTV1,http://000.hfr1107.top/tv/smt.php?id=viu1_twn
+RHK 32,http://000.hfr1107.top/tv/smt.php?id=rhk32_twn
+Viu6,http://000.hfr1107.top/tv/smt.php?id=viusix_twn
 
-卫视频道,#genre#
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+体育频道,#genre#
+爱尔达体育2台,http://000.hfr1107.top/tv/smt.php?id=eltasport2_twn
+爱尔达体育3台,http://000.hfr1107.top/tv/smt.php?id=eltasport3_twn
+Astro Premier League 1,http://000.hfr1107.top/tv/smt.php?id=go_assp1
+Astro EPL 1 backup,http://000.hfr1107.top/tv/smt.php?id=go_assp1x
+Astro Premier League 2,http://000.hfr1107.top/tv/smt.php?id=go_assp2
+Astro Grandstand,http://000.hfr1107.top/tv/smt.php?id=go_assp3
+Astro Football,http://000.hfr1107.top/tv/smt.php?id=go_assp4
+Astro Sports Plus,http://000.hfr1107.top/tv/smt.php?id=go_sportsplus
+Astro Badminton 1,http://000.hfr1107.top/tv/smt.php?id=go_badminton1
+Astro Badminton 2,http://000.hfr1107.top/tv/smt.php?id=go_badminton2
+Astro W-Sports,http://000.hfr1107.top/tv/smt.php?id=go_assp5
+Supersports 1,http://000.hfr1107.top/tv/smt.php?id=Assp1
+Supersports 2,http://000.hfr1107.top/tv/smt.php?id=Assp2
+Supersports 3,http://000.hfr1107.top/tv/smt.php?id=Assp3
+Supersports 4,http://000.hfr1107.top/tv/smt.php?id=Assp4
+WWE,http://000.hfr1107.top/tv/smt.php?id=Wwe
+Fight Sports,http://000.hfr1107.top/tv/smt.php?id=Fs
+NBA TV,http://000.hfr1107.top/tv/smt.php?id=Nba
+Astro Cricket,http://000.hfr1107.top/tv/smt.php?id=Acricket
+Astro Golf,http://000.hfr1107.top/tv/smt.php?id=Agolf
+Tnt Sports 1,http://000.hfr1107.top/tv/smt.php?id=6fac0aaead
+TNT Sports 2,http://000.hfr1107.top/tv/smt.php?id=d9a76a79cc
+TNT Sports 3,http://000.hfr1107.top/tv/smt.php?id=5fea4d73db
+TNT Sports 4,http://000.hfr1107.top/tv/smt.php?id=tntsport4
+Sony Ten 1,http://000.hfr1107.top/tv/smt.php?id=ten1_raj
+Sony Ten 2,http://000.hfr1107.top/tv/smt.php?id=ten2_raj
+Sony Ten 3,http://000.hfr1107.top/tv/smt.php?id=ten3_raj
+SPOTV 1 HD,http://000.hfr1107.top/tv/smt.php?id=go_spotv
+SPO TV 2,http://000.hfr1107.top/tv/smt.php?id=go_spotv2
+Skysports F1,http://000.hfr1107.top/tv/smt.php?id=tiankongf1
+Skysports Cricket,http://000.hfr1107.top/tv/smt.php?id=tiankongcricket
+Skysports EPL,http://000.hfr1107.top/tv/smt.php?id=tiankongepl
+Skysports Main Event,http://000.hfr1107.top/tv/smt.php?id=tiankongmain
+Skysports News,http://000.hfr1107.top/tv/smt.php?id=tiankongnews
+Skysports Mix,http://000.hfr1107.top/tv/smt.php?id=tiankongmix
+Rugby Pass TV,http://000.hfr1107.top/tv/smt.php?id=Rugbypasstv
+RTM Sports HD,http://000.hfr1107.top/tv/smt.php?id=Rtmsport
+Arena,http://000.hfr1107.top/tv/smt.php?id=Arena
+Arena 2,http://000.hfr1107.top/tv/smt.php?id=Arena2
+BolaArena 1,http://000.hfr1107.top/tv/smt.php?id=Bolaarena1
+BolaArena 2,http://000.hfr1107.top/tv/smt.php?id=Bolaarena2
+Astro Beinsports 1,http://000.hfr1107.top/tv/smt.php?id=Astrobein1
+Astro Beinsports 2,http://000.hfr1107.top/tv/smt.php?id=Astrobein2
+Astro Beinsports 3,http://000.hfr1107.top/tv/smt.php?id=Astrobein3
 
-浙江卫视,http://39.135.133.176/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1241&online=1717697010&vqe=3
-湖南卫视,http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717697321&vqe=3
-江苏卫视,http://39.135.133.135/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1238&online=1717734778&vqe=3
-北京卫视,http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1250&online=1717734870&vqe=3
-安徽卫视,http://39.135.133.158/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1251&online=1717735384&vqe=3
-天津卫视,http://39.135.133.133/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1239&online=1717735466&vqe=3
-东方卫视,http://39.135.133.179/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1248&online=1717735673&vqe=3
-重庆卫视,http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717735726&vqe=3
-深圳卫视,http://39.135.133.168/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1243&online=1717735823&vqe=3
-广东卫视,http://39.135.133.161/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1244&online=1717735897&vqe=3
-辽宁卫视,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717735981&vqe=3
-黑龙江卫视,http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1249&online=1717736042&vqe=3
-东南卫视,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717736148&vqe=3
-陕西卫视,http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717736230&vqe=3
-海南卫视,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717736285&vqe=3
-湖北卫视,http://39.135.133.169/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1243&online=1717736400&vqe=3
-四川卫视,http://39.135.133.176/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1241&online=1717736893&vqe=3
-河北卫视,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717736959&vqe=3
-江西卫视,http://39.135.133.166/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1249&online=1717737045&vqe=3
-吉林卫视,http://39.135.133.171/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1254&online=1717737092&vqe=3
-河南卫视,http://39.135.133.172/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1242&online=1717737990&vqe=3
-广西卫视,http://39.135.133.147/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1231&online=1717738041&vqe=3
-云南卫视,http://39.135.133.158/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1251&online=1717738100&vqe=3
-贵州卫视,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717738300&vqe=3
-宁夏卫视,http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717738495&vqe=3
-新疆卫视,http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717738530&vqe=3
-西藏卫视,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717738559&vqe=3
-甘肃卫视,http://39.135.133.173/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1242&online=1717738605&vqe=3
-山东教育卫视,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/1.m3u8?IASHttpSessionId=RR&icpid=88888888&from=23&hms_devid=1247&online=1717738643&vqe=3
+电影频道,#genre#
+Cinemax,http://000.hfr1107.top/tv/smt.php?id=Cinemax
+Animax,http://000.hfr1107.top/tv/smt.php?id=Animax
+Movies Now HD,http://000.hfr1107.top/tv/smt.php?id=moviesnow_raj
+Star Movies HD,http://000.hfr1107.top/tv/smt.php?id=starmovies_raj
+HBO Family,http://000.hfr1107.top/tv/smt.php?id=Hbofamily
+Hits,http://000.hfr1107.top/tv/smt.php?id=Hits
+Warner TV,http://000.hfr1107.top/tv/smt.php?id=WarnerTV
+HBO HD,http://000.hfr1107.top/tv/smt.php?id=Hbo
+HBO Signature,http://000.hfr1107.top/tv/smt.php?id=Hbosignature
+HBO Hits,http://000.hfr1107.top/tv/smt.php?id=Hbohitshd
+SCM,http://000.hfr1107.top/tv/smt.php?id=Weishimovie
+Dreamworks,http://000.hfr1107.top/tv/smt.php?id=Dreamworks
+Thrill,http://000.hfr1107.top/tv/smt.php?id=Thrill
+Hits Movie,http://000.hfr1107.top/tv/smt.php?id=Hitsmovie
+One,http://000.hfr1107.top/tv/smt.php?id=One
+tvN Movie,http://000.hfr1107.top/tv/smt.php?id=Tvnmovie
+Celestial Classic,http://000.hfr1107.top/tv/smt.php?id=Celestial2
+Celestial Movies HD,http://000.hfr1107.top/tv/smt.php?id=Celestialindo
+Axn HD,http://000.hfr1107.top/tv/smt.php?id=Axn
+Paramount Network,http://000.hfr1107.top/tv/smt.php?id=Paramountnetwork
+Astrol Kplus,http://000.hfr1107.top/tv/smt.php?id=Kplus
+Rock Actions,http://000.hfr1107.top/tv/smt.php?id=Rockaction
+Rock Entertainment,http://000.hfr1107.top/tv/smt.php?id=Rockentertain
 
-数字频道,#genre#
-NewTV东北热剧,http://39.134.64.87:6610/PLTV/88888888/224/3221225741/index.m3u8?IASHttpSessionId=
-NewTV军事评论,http://39.134.64.87:6610/PLTV/88888888/224/3221225668/index.m3u8?IASHttpSessionId=
-NewTV军旅剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225676/index.m3u8?IASHttpSessionId=
-NewTV农业致富,http://39.134.64.87:6610/PLTV/88888888/224/3221225683/index.m3u8?IASHttpSessionId=
-NewTV哒啵电竞,http://39.134.64.87:6610/PLTV/88888888/224/3221225675/index.m3u8?IASHttpSessionId=
-NewTV家庭剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225677/index.m3u8?IASHttpSessionId=
-NewTV怡伴健康,http://39.134.64.87:6610/PLTV/88888888/224/3221225673/index.m3u8?IASHttpSessionId=
-NewTV惊悚悬疑,http://39.134.64.87:6610/PLTV/88888888/224/3221225665/index.m3u8?IASHttpSessionId=
-NewTV明星大片,http://39.134.64.87:6610/PLTV/88888888/224/3221225664/index.m3u8?IASHttpSessionId=
-NewTV欢乐剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225742/index.m3u8?IASHttpSessionId=
-NewTV武搏世界,http://39.134.64.87:6610/PLTV/88888888/224/3221225680/index.m3u8?IASHttpSessionId=
-NewTV潮妈辣婆,http://39.134.64.87:6610/PLTV/88888888/224/3221225685/index.m3u8?IASHttpSessionId=
-NewTV精品体育,http://39.134.64.87:6610/PLTV/88888888/224/3221225674/index.m3u8?IASHttpSessionId=
-NewTV精品大剧,http://39.134.64.87:6610/PLTV/88888888/224/3221225670/index.m3u8?IASHttpSessionId=
-NewTV精品纪录,http://39.134.64.87:6610/PLTV/88888888/224/3221225672/index.m3u8?IASHttpSessionId=
-NewTV精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3u8?IASHttpSessionId=
+记录频道,#genre#
+Natgeo_HD,http://000.hfr1107.top/tv/smt.php?id=natgeohd_twn
+NatGeo_Wild HD,http://000.hfr1107.top/tv/smt.php?id=natgeowild_twn
+Animal_Planet,http://000.hfr1107.top/tv/smt.php?id=animalplanet_twn
+Discovery Asia,http://000.hfr1107.top/tv/smt.php?id=discoverytwn_twn
+CI,http://000.hfr1107.top/tv/smt.php?id=ci_twn
+Discovery HD,http://000.hfr1107.top/tv/smt.php?id=discoveryhd_twn
+NatGeo HD,http://000.hfr1107.top/tv/smt.php?id=Natgeo
+Fashion TV,http://000.hfr1107.top/tv/smt.php?id=fashiontv_twn
+History,http://000.hfr1107.top/tv/smt.php?id=History
+BBC Earth HD,http://000.hfr1107.top/tv/smt.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://000.hfr1107.top/tv/smt.php?id=bbclifestyle_twn
+NatGeo Wild HD,http://000.hfr1107.top/tv/smt.php?id=Natgeowild
+Animal Planet (Eng),http://000.hfr1107.top/tv/smt.php?id=AnimalPlanet
+TLC,http://000.hfr1107.top/tv/smt.php?id=Tlc
+Foodnetwork Hd,http://000.hfr1107.top/tv/smt.php?id=Foodnetwork
+HGTV,http://000.hfr1107.top/tv/smt.php?id=HGTV
+
+新闻频道,#genre#
+Skynews,http://000.hfr1107.top/tv/smt.php?id=skynews_twn
+ABC News,http://000.hfr1107.top/tv/smt.php?id=abcnews_glo
+CBS HD,http://000.hfr1107.top/tv/smt.php?id=cbshd_glo
+CBSN HD,http://000.hfr1107.top/tv/smt.php?id=cbsn_glo
+France 24,http://000.hfr1107.top/tv/smt.php?id=france24_twn
+DW (Deutsch),http://000.hfr1107.top/tv/smt.php?id=dw_twn
+NHK World,http://000.hfr1107.top/tv/smt.php?id=nhkworld_japan
+Fox News,http://000.hfr1107.top/tv/smt.php?id=foxnews_twn
+CNN International,http://000.hfr1107.top/tv/smt.php?id=Cnn
+CNN backup,http://000.hfr1107.top/tv/smt.php?id=cnn_twn
+CNBC,http://000.hfr1107.top/tv/smt.php?id=cnbc_twn
+CNA,http://000.hfr1107.top/tv/smt.php?id=cna
+BBC World News,http://000.hfr1107.top/tv/smt.php?id=bbcnews_twn
+BBC World News,http://000.hfr1107.top/tv/smt.php?id=Bbcnews
+Bloomberg News,http://000.hfr1107.top/tv/smt.php?id=bloomberg_twn
+Al-Jazeera,http://000.hfr1107.top/tv/smt.php?id=aljazeera_twn
+
+儿童频道,#genre#
+Baby TV Eng,http://000.hfr1107.top/tv/smt.php?id=Babytv
+CBeebies,http://000.hfr1107.top/tv/smt.php?id=Cbeebies
+Kids TV,http://000.hfr1107.top/tv/smt.php?id=KidsTV
+Momo TV,http://000.hfr1107.top/tv/smt.php?id=momo1_twn
+Baby TV,http://000.hfr1107.top/tv/smt.php?id=babytv_twn
+MiaoMi,http://000.hfr1107.top/tv/smt.php?id=MiaoMi
+Cartoon Network,http://000.hfr1107.top/tv/smt.php?id=Cn
+Nickelodeon,http://000.hfr1107.top/tv/smt.php?id=Nickelodeon
+Nick Jr,http://000.hfr1107.top/tv/smt.php?id=Nickjr
+
+新加坡频道,#genre#
+Channel 5,http://000.hfr1107.top/tv/smt.php?id=Channel5HD
+Channel 8,http://000.hfr1107.top/tv/smt.php?id=Channel8HD
+Suria,http://000.hfr1107.top/tv/smt.php?id=Suria
+Channel U,http://000.hfr1107.top/tv/smt.php?id=ChannelU
+Vasantham,http://000.hfr1107.top/tv/smt.php?id=Vasantham
+CNA backup,http://000.hfr1107.top/tv/smt.php?id=cna_twn
+MeWatch Ch 5,http://000.hfr1107.top/tv/smt.php?id=Mewatch_ch5
+MeWatch Ch 8,http://000.hfr1107.top/tv/smt.php?id=Mewatch_ch8
+MeWatch Ch U,http://000.hfr1107.top/tv/smt.php?id=Mewatch_chU
+MeWatch Suria,http://000.hfr1107.top/tv/smt.php?id=Mewatch_Suria
+MeWatch Vasantham,http://000.hfr1107.top/tv/smt.php?id=Mewatch_Vasantham
+MeWatch CNA,http://000.hfr1107.top/tv/smt.php?id=Mewatch_cna
+
+马来西亚频道,#genre#
+华丽台 HD （Wah Lai Toi）,http://000.hfr1107.top/tv/smt.php?id=Wlt
+欢喜台 HD （Hua Hee Tai）,http://000.hfr1107.top/tv/smt.php?id=Huahee
+TVB 星河台 Xing He,http://000.hfr1107.top/tv/smt.php?id=Xinhe
+爱奇艺 iQiyi,http://000.hfr1107.top/tv/smt.php?id=Qiyi
+TV1,http://000.hfr1107.top/tv/smt.php?id=TV1
+TV1 backup,http://000.hfr1107.top/tv/smt.php?id=TV1_backup
+TV2,http://000.hfr1107.top/tv/smt.php?id=TV2
+TV3,http://000.hfr1107.top/tv/smt.php?id=TV3
+TV3 SD,http://000.hfr1107.top/tv/smt.php?id=TV3_mega
+NTV7,http://000.hfr1107.top/tv/smt.php?id=NTV7
+TV8,http://000.hfr1107.top/tv/smt.php?id=TV8
+TV9,http://000.hfr1107.top/tv/smt.php?id=TV9
+Ria,http://000.hfr1107.top/tv/smt.php?id=Ria-0
+Ria-3,http://000.hfr1107.top/tv/smt.php?id=Ria_backup
+Al-Hijrah,http://000.hfr1107.top/tv/smt.php?id=Alhijrah
+Al-Hijrah backup,http://000.hfr1107.top/tv/smt.php?id=Alhijrah_backup
+Awani,http://000.hfr1107.top/tv/smt.php?id=Awani
+Bernama,http://000.hfr1107.top/tv/smt.php?id=Bernama
+Prima,http://000.hfr1107.top/tv/smt.php?id=Prima-0
+Prima backup,http://000.hfr1107.top/tv/smt.php?id=AAprima1
+Prima backup 2,http://000.hfr1107.top/tv/smt.php?id=AAprima
+Ceria,http://000.hfr1107.top/tv/smt.php?id=Ceria
+Astro MTV,http://000.hfr1107.top/tv/smt.php?id=AstroMTV
+Mecca Live HD,http://000.hfr1107.top/tv/smt.php?id=quran_mido
+Madinah HD,http://000.hfr1107.top/tv/smt.php?id=sunnah_mido
+Oasis,http://000.hfr1107.top/tv/smt.php?id=Oasis
+Siar,http://000.hfr1107.top/tv/smt.php?id=Siar
+Citra,http://000.hfr1107.top/tv/smt.php?id=AAcitra
+Citra backup,http://000.hfr1107.top/tv/smt.php?id=AAcitra1
+Sensasi,http://000.hfr1107.top/tv/smt.php?id=Sensasi
+Aura,http://000.hfr1107.top/tv/smt.php?id=Aura
+Rania,http://000.hfr1107.top/tv/smt.php?id=Rania
+KBS World,http://000.hfr1107.top/tv/smt.php?id=KBS
+Boo,http://000.hfr1107.top/tv/smt.php?id=Boo
+Awesome TV,http://000.hfr1107.top/tv/smt.php?id=Dsangat
+Astro Sonypix,http://000.hfr1107.top/tv/smt.php?id=Asonypix
+Sony HD,http://000.hfr1107.top/tv/smt.php?id=SetOne
+TvN,http://000.hfr1107.top/tv/smt.php?id=TVN
+AEC,http://000.hfr1107.top/tv/smt.php?id=AEC
+Astro QJ,http://000.hfr1107.top/tv/smt.php?id=Quanjia
+TVB Jade,http://000.hfr1107.top/tv/smt.php?id=Tvbjade
+TVB Asia,http://000.hfr1107.top/tv/smt.php?id=Tvbasia
+TVB Entertainment,http://000.hfr1107.top/tv/smt.php?id=Tvbentertainment
+TVB Classic,http://000.hfr1107.top/tv/smt.php?id=Tvbclassic
+AOD,http://000.hfr1107.top/tv/smt.php?id=Aodhd
+Goshop,http://000.hfr1107.top/tv/smt.php?id=Goshop
+Celestial Movies HD,http://000.hfr1107.top/tv/smt.php?id=Celestial
+Astro LOL,http://000.hfr1107.top/tv/smt.php?id=Astro_lol
+Astro Rusi,http://000.hfr1107.top/tv/smt.php?id=Rusi
+WION,http://000.hfr1107.top/tv/smt.php?id=Wion
+RTM Asean,http://000.hfr1107.top/tv/smt.php?id=Rtmasean
+
+印尼频道,#genre#
+TVRI National,http://000.hfr1107.top/tv/smt.php?id=TVRI
+RCTI,http://000.hfr1107.top/tv/smt.php?id=Rcti
+Kompass TV,http://000.hfr1107.top/tv/smt.php?id=Kompass
+Berita Satu,http://000.hfr1107.top/tv/smt.php?id=BeritaSatu_eko
+Indosiar HD,http://000.hfr1107.top/tv/smt.php?id=Indosiar
+AnTV,http://000.hfr1107.top/tv/smt.php?id=Antv
+MNC TV,http://000.hfr1107.top/tv/smt.php?id=Mnctv
+Trans 7,http://000.hfr1107.top/tv/smt.php?id=Trans7_eko
+Transtv,http://000.hfr1107.top/tv/smt.php?id=Transtv
+JTV,http://000.hfr1107.top/tv/smt.php?id=JTV_eko
+Metro TV,http://000.hfr1107.top/tv/smt.php?id=metrotv_eko
+SCTV,http://000.hfr1107.top/tv/smt.php?id=SCTV
+Tvone,http://000.hfr1107.top/tv/smt.php?id=Tvone
+TVMU,http://000.hfr1107.top/tv/smt.php?id=TVMU_eko
+GTV,http://000.hfr1107.top/tv/smt.php?id=Gtv
+RTV,http://000.hfr1107.top/tv/smt.php?id=Rtv
+Jak TV,http://000.hfr1107.top/tv/smt.php?id=JakTV
+iNews TV,http://000.hfr1107.top/tv/smt.php?id=Inewstv
+Daai TV,http://000.hfr1107.top/tv/smt.php?id=DaaiTV
+Net TV,http://000.hfr1107.top/tv/smt.php?id=NetTV
+EWTN,http://000.hfr1107.top/tv/smt.php?id=Ewtn
+AlQuran AlKareem,http://000.hfr1107.top/tv/smt.php?id=AlQuran
+Tawaf TV,http://000.hfr1107.top/tv/smt.php?id=TawafTV
+Vision Prime,http://000.hfr1107.top/tv/smt.php?id=VisionPrime
+Muslim TV,http://000.hfr1107.top/tv/smt.php?id=MuslimTV
+Music TV,http://000.hfr1107.top/tv/smt.php?id=MusicTV
+Lifestyle&amp;Fashion,http://000.hfr1107.top/tv/smt.php?id=Lifestyle
+Entertain,http://000.hfr1107.top/tv/smt.php?id=Entertain
+
+印度频道,#genre#
+Sun TV HD,http://000.hfr1107.top/tv/smt.php?id=Suntv
+Star Vijay,http://000.hfr1107.top/tv/smt.php?id=Starvijay
+Colors Tamil,http://000.hfr1107.top/tv/smt.php?id=Colorstam
+Sun Music,http://000.hfr1107.top/tv/smt.php?id=Sunmusic
+Astro Sunlife,http://000.hfr1107.top/tv/smt.php?id=Sunlife
+Astro Vaanavil,http://000.hfr1107.top/tv/smt.php?id=Vaanavil
+Zee Tamil,http://000.hfr1107.top/tv/smt.php?id=Zeetamil
+Zee Business,http://000.hfr1107.top/tv/smt.php?id=Zeebusiness
+News 18 Tamil,http://000.hfr1107.top/tv/smt.php?id=news18tamil_raj
+Adithya,http://000.hfr1107.top/tv/smt.php?id=Adithya
+Makkal TV,http://000.hfr1107.top/tv/smt.php?id=Makkaltv
+Zee Action,http://000.hfr1107.top/tv/smt.php?id=Zeeaction
+Astro KTV,http://000.hfr1107.top/tv/smt.php?id=Astroktv
+Zee TV HD,http://000.hfr1107.top/tv/smt.php?id=Zeetvhd
+Zee Cinema HD,http://000.hfr1107.top/tv/smt.php?id=Zeecinemahd
+Color HD,http://000.hfr1107.top/tv/smt.php?id=Colorhd
+Starplus HD,http://000.hfr1107.top/tv/smt.php?id=Starplushd
+Picture HD,http://000.hfr1107.top/tv/smt.php?id=Npicture
+Zee News,http://000.hfr1107.top/tv/smt.php?id=Zeenews
+Asianet,http://000.hfr1107.top/tv/smt.php?id=asianet_raj
+Asianet News,http://000.hfr1107.top/tv/smt.php?id=asianetnews_raj
+Discovery World Tamil,http://000.hfr1107.top/tv/smt.php?id=discoveryworldtam_raj
+History Tamil,http://000.hfr1107.top/tv/smt.php?id=historytam_raj
+NatGeo Tamil,http://000.hfr1107.top/tv/smt.php?id=natgeotamil_raj
+Natgeo Wild Tamil,http://000.hfr1107.top/tv/smt.php?id=natgeowildtamil_raj
+Discovery Kids Tamil,http://000.hfr1107.top/tv/smt.php?id=discoverykidtamil_raj
+Discovery Tamil,http://000.hfr1107.top/tv/smt.php?id=discoverytamil_raj
+Sony Yay Tamil,http://000.hfr1107.top/tv/smt.php?id=sonyyaytam_raj
+Sun TV India,http://000.hfr1107.top/tv/smt.php?id=suntv_raj
+Starmaa HD,http://000.hfr1107.top/tv/smt.php?id=starmaa_raj
+Starmaa Movies HD,http://000.hfr1107.top/tv/smt.php?id=starmaamovies_raj
+Bollyone,http://000.hfr1107.top/tv/smt.php?id=Bollyone
+Vijay Super,http://000.hfr1107.top/tv/smt.php?id=vijaysuper_raj
+Vellithirai,http://000.hfr1107.top/tv/smt.php?id=Vellithirai
+
+泰国频道,#genre#
+Channel 3 Thailand,http://000.hfr1107.top/tv/smt.php?id=ch3_pat
+Channel 5 Thailand,http://000.hfr1107.top/tv/smt.php?id=ch5_pat
+Channel 7 Thailand,http://000.hfr1107.top/tv/smt.php?id=ch7_pat
+MCOT HD Thailand-1,http://000.hfr1107.top/tv/smt.php?id=mcot_pat
+PPTV Thailand1,http://000.hfr1107.top/tv/smt.php?id=pptv_pat
+Thai Thai,http://000.hfr1107.top/tv/smt.php?id=thaithai_pat
+Amarin,http://000.hfr1107.top/tv/smt.php?id=amarin_pat
+Ch 8,http://000.hfr1107.top/tv/smt.php?id=ch8_pat
+GmmOne,http://000.hfr1107.top/tv/smt.php?id=gmmone_pat
+Mono,http://000.hfr1107.top/tv/smt.php?id=mono_pat
+Thairath,http://000.hfr1107.top/tv/smt.php?id=thairath_pat
+tpbs,http://000.hfr1107.top/tv/smt.php?id=tpbs_pat
+Workpoint,http://000.hfr1107.top/tv/smt.php?id=workpoint_pat
+Gmm Channel,http://000.hfr1107.top/tv/smt.php?id=gmmchannel_pat
+Nation,http://000.hfr1107.top/tv/smt.php?id=nation_pat
+Tnn24,http://000.hfr1107.top/tv/smt.php?id=tnn24_pat
+Nbt,http://000.hfr1107.top/tv/smt.php?id=nbt_pat
+New,http://000.hfr1107.top/tv/smt.php?id=new_pat
+TPTV,http://000.hfr1107.top/tv/smt.php?id=tptv_pat
+
+英国频道,#genre#
+BBC 1,http://000.hfr1107.top/tv/smt.php?id=bbc1_antik
+BBC 2,http://000.hfr1107.top/tv/smt.php?id=bbc2_antik
+CBBC,http://000.hfr1107.top/tv/smt.php?id=cbbc_antik
+More4,http://000.hfr1107.top/tv/smt.php?id=more4_antik
+Freesports,http://000.hfr1107.top/tv/smt.php?id=freesports_antik
+Pick TV,http://000.hfr1107.top/tv/smt.php?id=picktv_antik
+itv 1,http://000.hfr1107.top/tv/smt.php?id=itv1_antik
+itv 2,http://000.hfr1107.top/tv/smt.php?id=itv2_antik
+Euronews,http://000.hfr1107.top/tv/smt.php?id=euronews_antik
+Channel 4,http://000.hfr1107.top/tv/smt.php?id=channel4_antik
+BBC World News,http://000.hfr1107.top/tv/smt.php?id=bbcworldnews_antik
+
+越南频道,#genre#
+ANTV,http://000.hfr1107.top/tv/smt.php?id=viet_antv
+VTV 1,http://000.hfr1107.top/tv/smt.php?id=viet_vtv1
+VTV 7,http://000.hfr1107.top/tv/smt.php?id=viet_vtv7
+HTV 7,http://000.hfr1107.top/tv/smt.php?id=viet_htv7
+HTV 9,http://000.hfr1107.top/tv/smt.php?id=viet_htv9
+BPTV 2,http://000.hfr1107.top/tv/smt.php?id=viet_bptv2
+BRT HD,http://000.hfr1107.top/tv/smt.php?id=viet_brt
+Ca Mau TV,http://000.hfr1107.top/tv/smt.php?id=viet_camautv
+Danang TV1 HD,http://000.hfr1107.top/tv/smt.php?id=viet_danangtv1
+Danang TV2 HD,http://000.hfr1107.top/tv/smt.php?id=viet_danangtv2
+HBTV HD,http://000.hfr1107.top/tv/smt.php?id=viet_hbtv
+PTTH 1,http://000.hfr1107.top/tv/smt.php?id=viet_ptth1
+
+韩国频道,#genre#
+Arirang HD,http://000.hfr1107.top/tv/smt.php?id=arirang_korea
+Yonhap News,http://000.hfr1107.top/tv/smt.php?id=yonhapnews_korea
+CBS,http://000.hfr1107.top/tv/smt.php?id=cbs_korea
+EBS 1,http://000.hfr1107.top/tv/smt.php?id=ebs1_korea
+EBS2,http://000.hfr1107.top/tv/smt.php?id=ebs2_korea
+EBS Plus2,http://000.hfr1107.top/tv/smt.php?id=ebsplus2_korea
+SBS Plus,http://000.hfr1107.top/tv/smt.php?id=sbsplus_korea
+YTN,http://000.hfr1107.top/tv/smt.php?id=ytn_korea
+KBS World 24,http://000.hfr1107.top/tv/smt.php?id=kbsworld24_korea
+YTN Science,http://000.hfr1107.top/tv/smt.php?id=ytnscience_korea
+YTN Korean,http://000.hfr1107.top/tv/smt.php?id=ytnkorean_korea
+YTN DMB,http://000.hfr1107.top/tv/smt.php?id=ytndmb_korea
+Apps TV,http://000.hfr1107.top/tv/smt.php?id=appongoogle_korea
+All the Kpop,http://000.hfr1107.top/tv/smt.php?id=allthekpop_korea
+J the Kpop,http://000.hfr1107.top/tv/smt.php?id=jthekpop_korea
+EBS Kids,http://000.hfr1107.top/tv/smt.php?id=ebskids_korea
+CGNTV,http://000.hfr1107.top/tv/smt.php?id=cgntv_korea
+
+日本频道,#genre#
+NHK-総合-2,http://000.hfr1107.top/tv/smt.php?id=nhkg_japan
+NHK-E,http://000.hfr1107.top/tv/smt.php?id=nhke_japan
+テレビ朝日 Asahi TV,http://000.hfr1107.top/tv/smt.php?id=asahitv_japan
+JET 綜合,http://000.hfr1107.top/tv/smt.php?id=jettv_japan
+テレビ東京 Tokyo TV,http://000.hfr1107.top/tv/smt.php?id=tokyotv_japan
+TOKYOMX,http://000.hfr1107.top/tv/smt.php?id=tokyomx_japan
+NHKBS1,http://000.hfr1107.top/tv/smt.php?id=nhkbs1_japan
+NHKBSプレミア Premium,http://000.hfr1107.top/tv/smt.php?id=nhkpremium_japan
+BSジャパン 181,http://000.hfr1107.top/tv/smt.php?id=bs181_japan
+BSフジ BS Fuji,http://000.hfr1107.top/tv/smt.php?id=bsfuji_japan
+CNA Japan,http://000.hfr1107.top/tv/smt.php?id=cna_japan
+BS-TBS,http://000.hfr1107.top/tv/smt.php?id=bstbs_japan
+NHK Oaska,http://000.hfr1107.top/tv/smt.php?id=nhkosaka_japan
