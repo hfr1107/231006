@@ -1,9 +1,14 @@
-name: 优质源!!!
+name: 优质源
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:    
+    - cron: '0 0 * * *'  # 每天UTC时间00:00运行
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy to'
+        required: true
+        default: 'production'
 
 jobs:
   build:
@@ -31,8 +36,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-#          git config --local user.email "2856364053@qq.com"
-#          git config --local user.name "adminouyang" 
           git add .
           git commit -m "action: `date`"
           #git commit -m "action: `date`"
