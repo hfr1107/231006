@@ -30,8 +30,9 @@ jobs:
       - name: 提交更改
         run: |
 
-          git config --local user.email "hfr1107@163.com"
-          git config --local user.name "hfr1107" 
+          git pull
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add .
           git commit -m "action: `date`"
           #git commit -m "action: `date`"
