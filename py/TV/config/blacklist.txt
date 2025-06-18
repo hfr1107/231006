@@ -928,3 +928,4 @@ live.yantaitv.cn
 121.17.146.178
 fn.tmde.top
 hlscdn.liangtv.cn
+tc-tct.douyucdn2.cn
