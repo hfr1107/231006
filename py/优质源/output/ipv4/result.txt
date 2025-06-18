@@ -94,7 +94,7 @@ CBS,http://000.hfr1107.top/tv/smt.php?id=cbs_korea
 CBS HD,http://000.hfr1107.top/tv/smt.php?id=cbshd_glo
 CBSN HD,http://000.hfr1107.top/tv/smt.php?id=cbsn_glo
 Celestial Classic,http://000.hfr1107.top/tv/smt.php?id=Celestial2
-Celestial Movies HD,http://000.hfr1107.top/tv/smt.php?id=Celestial#http://000.hfr1107.top/tv/smt.php?id=Celestialindo
+Celestial Movies HD,http://000.hfr1107.top/tv/smt.php?id=Celestialindo#http://000.hfr1107.top/tv/smt.php?id=Celestial
 Ceria,http://000.hfr1107.top/tv/smt.php?id=Ceria
 CGNTV,http://000.hfr1107.top/tv/smt.php?id=cgntv_korea
 Ch 8,http://000.hfr1107.top/tv/smt.php?id=ch8_pat
