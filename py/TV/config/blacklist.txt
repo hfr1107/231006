@@ -917,3 +917,6 @@ live.cztv.cc
 epg.pw
 39.134.67.108
 103.193.151.146
+cdn.163189.xyz
+p2.bdstatic.com
+cdn5.163189.xyz
