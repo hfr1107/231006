@@ -926,3 +926,5 @@ live.yantaitv.cn
 50.7.234.10
 222.240.220.198
 121.17.146.178
+fn.tmde.top
+hlscdn.liangtv.cn
