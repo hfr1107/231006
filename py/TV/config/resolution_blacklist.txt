@@ -1057,3 +1057,4 @@ hlscdn.liangtv.cn
 cdn.iptv8k.top
 amdlive-ch01-ctnd-com.akamaized.net
 live.wqwqwq.sbs
+gdfire2.67890123.cn

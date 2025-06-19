@@ -934,3 +934,5 @@ amdlive-ch01-ctnd-com.akamaized.net
 cdn.iptv8k.top
 s1.abntelevision.com
 38.64.72.148
+gdfire2.67890123.cn
+59.35.185.200
