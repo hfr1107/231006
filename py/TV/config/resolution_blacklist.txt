@@ -1054,3 +1054,6 @@ qjrhc.jydjd.top
 121.17.146.178
 222.240.220.198
 hlscdn.liangtv.cn
+cdn.iptv8k.top
+amdlive-ch01-ctnd-com.akamaized.net
+live.wqwqwq.sbs
