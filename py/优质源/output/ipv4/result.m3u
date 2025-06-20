@@ -30,15 +30,15 @@ http://49.77.104.76:8554/rtp/239.49.8.54:9818
 #EXTINF:-1 tvg-name="CCTV11"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV11
 http://49.77.104.76:8554/rtp/239.49.1.11:6000
 #EXTINF:-1 tvg-name="CCTV12"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV12
-http://49.77.104.76:8554/rtp/239.49.8.135:6000
-#EXTINF:-1 tvg-name="CCTV12"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV12
 http://49.77.104.76:8554/rtp/239.49.8.55:9822
+#EXTINF:-1 tvg-name="CCTV12"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV12
+http://49.77.104.76:8554/rtp/239.49.8.135:6000
 #EXTINF:-1 tvg-name="CCTV13"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV13
 http://49.77.104.76:8554/rtp/239.49.1.13:6000
 #EXTINF:-1 tvg-name="CCTV14"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV14
-http://49.77.104.76:8554/rtp/239.49.8.136:6000
-#EXTINF:-1 tvg-name="CCTV14"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV14
 http://49.77.104.76:8554/rtp/239.49.8.56:9826
+#EXTINF:-1 tvg-name="CCTV14"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV14
+http://49.77.104.76:8554/rtp/239.49.8.136:6000
 #EXTINF:-1 tvg-name="CCTV15"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV15
 http://49.77.104.76:8554/rtp/239.49.1.15:6000
 #EXTINF:-1 tvg-name="CCTV17"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV17
@@ -92,9 +92,9 @@ http://49.77.104.76:8554/rtp/239.49.8.188:6000
 #EXTINF:-1 tvg-name="河南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://49.77.104.76:8554/rtp/239.49.1.44:6000
 #EXTINF:-1 tvg-name="黑龙江卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://49.77.104.76:8554/rtp/239.49.8.14:9426
-#EXTINF:-1 tvg-name="黑龙江卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://49.77.104.76:8554/rtp/239.49.8.144:6000
+#EXTINF:-1 tvg-name="黑龙江卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://49.77.104.76:8554/rtp/239.49.8.14:9426
 #EXTINF:-1 tvg-name="湖北卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://49.77.104.76:8554/rtp/239.49.8.8:9632
 #EXTINF:-1 tvg-name="湖北卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
@@ -110,9 +110,9 @@ http://49.77.104.76:8554/rtp/239.49.1.35:6000
 #EXTINF:-1 tvg-name="青海卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://49.77.104.76:8554/rtp/239.49.1.53:6000
 #EXTINF:-1 tvg-name="山东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://49.77.104.76:8554/rtp/239.49.8.146:6000
-#EXTINF:-1 tvg-name="山东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://49.77.104.76:8554/rtp/239.49.8.7:9306
+#EXTINF:-1 tvg-name="山东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://49.77.104.76:8554/rtp/239.49.8.146:6000
 #EXTINF:-1 tvg-name="山西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://49.77.104.76:8554/rtp/239.49.1.51:6000
 #EXTINF:-1 tvg-name="海南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
@@ -276,9 +276,9 @@ http://000.hfr1107.top/tv/smt.php?id=bbclifestyle_twn
 #EXTINF:-1 tvg-name="BBC World News" group-title="其他",BBC World News
 http://000.hfr1107.top/tv/smt.php?id=bbcworldnews_antik
 #EXTINF:-1 tvg-name="BBC World News" group-title="其他",BBC World News
-http://000.hfr1107.top/tv/smt.php?id=bbcnews_twn
-#EXTINF:-1 tvg-name="BBC World News" group-title="其他",BBC World News
 http://000.hfr1107.top/tv/smt.php?id=Bbcnews
+#EXTINF:-1 tvg-name="BBC World News" group-title="其他",BBC World News
+http://000.hfr1107.top/tv/smt.php?id=bbcnews_twn
 #EXTINF:-1 tvg-name="Berita Satu" group-title="其他",Berita Satu
 http://000.hfr1107.top/tv/smt.php?id=BeritaSatu_eko
 #EXTINF:-1 tvg-name="Bernama" group-title="其他",Bernama
@@ -320,9 +320,9 @@ http://000.hfr1107.top/tv/smt.php?id=cbsn_glo
 #EXTINF:-1 tvg-name="Celestial Classic" group-title="其他",Celestial Classic
 http://000.hfr1107.top/tv/smt.php?id=Celestial2
 #EXTINF:-1 tvg-name="Celestial Movies HD" group-title="其他",Celestial Movies HD
-http://000.hfr1107.top/tv/smt.php?id=Celestialindo
-#EXTINF:-1 tvg-name="Celestial Movies HD" group-title="其他",Celestial Movies HD
 http://000.hfr1107.top/tv/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="Celestial Movies HD" group-title="其他",Celestial Movies HD
+http://000.hfr1107.top/tv/smt.php?id=Celestialindo
 #EXTINF:-1 tvg-name="Ceria" group-title="其他",Ceria
 http://000.hfr1107.top/tv/smt.php?id=Ceria
 #EXTINF:-1 tvg-name="CGNTV" group-title="其他",CGNTV
