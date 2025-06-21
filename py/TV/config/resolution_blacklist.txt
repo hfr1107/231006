@@ -1062,3 +1062,6 @@ bcovlive-a.akamaihd.net
 xg.52sw.top
 zbbf2.ahbztv.com
 39.134.65.141
+bloomberg.com
+fxgm.fxjf.work
+39.134.65.173
